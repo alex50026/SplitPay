@@ -1,0 +1,7 @@
+{
+    "liveshare.languages.allowGuestCommandControl": true,
+    "java.project.referencedLibraries": [
+        "lib/ojdbc11.jar"
+    ],
+    "liveshare.allowGuestDebugControl": true
+}
